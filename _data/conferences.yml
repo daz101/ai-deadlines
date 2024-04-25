@@ -1,3 +1,19 @@
+- title: SUPA
+  year: 2024
+  id: SUPA24
+  full_name: Societal & User-Centered Privacy in AI (SUPA) 
+  link: https://supa-workshop.github.io/supa.github.io/
+  deadline: '2024-05-23 23:59:59'
+  timezone: AoE
+  place: Philadelphia, PA, USA
+  date: August 11, 2024
+  start: 2024-08-11
+  end: 2024-08-11
+  sub: ['AI', 'ML', 'Privacy']
+  Note: More info <a href='https://supa-workshop.github.io/supa.github.io/'>here</a>
+
+
+
 - title: KIL
   year: 2024
   id: kil24
